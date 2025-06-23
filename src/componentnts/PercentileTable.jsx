@@ -22,7 +22,7 @@ const PercentileTable = () => {
                         <p className="s1" style={{ paddingTop: '1pt', paddingLeft: '1pt', textIndent: '0pt', textAlign: 'left' }}>Chemistry</p>
                     </td>
                     <td style={{ width: '374pt', border: '1pt solid #CCCCCC' }} colSpan="4">
-                        <p className="s2" style={{ paddingTop: '2pt', paddingLeft: '1pt', textIndent: '0pt', textAlign: 'left' }}>80.1646183</p>
+                        <p className="s2" style={{ paddingTop: '2pt', paddingLeft: '1pt', textIndent: '0pt', textAlign: 'left' }}>85.1646183</p>
                     </td>
                 </tr>
                 <tr style={{ height: '16pt' }}>
@@ -30,7 +30,7 @@ const PercentileTable = () => {
                         <p className="s1" style={{ paddingTop: '1pt', paddingLeft: '1pt', textIndent: '0pt', textAlign: 'left' }}>Biology (Botany & Zoology)</p>
                     </td>
                     <td style={{ width: '374pt', border: '1pt solid #CCCCCC' }} colSpan="4">
-                        <p className="s2" style={{ paddingTop: '2pt', paddingLeft: '1pt', textIndent: '0pt', textAlign: 'left' }}>87.4473487</p>
+                        <p className="s2" style={{ paddingTop: '2pt', paddingLeft: '1pt', textIndent: '0pt', textAlign: 'left' }}>91.4473487</p>
                     </td>
                 </tr>
                 <tr style={{ height: '15pt' }}>
@@ -87,7 +87,7 @@ const PercentileTable = () => {
                         <p className="s2" style={{ paddingTop: '2pt', paddingLeft: '1pt', textIndent: '0pt', textAlign: 'left' }}>39428</p>
                     </td>
                     <td style={{ width: '70pt', border: '1pt solid #CCCCCC' }}>
-                        <p className="s2" style={{ paddingTop: '2pt', paddingLeft: '1pt', textIndent: '0pt', textAlign: 'left' }}>OBC</p>
+                        <p className="s2" style={{ paddingTop: '2pt', paddingLeft: '1pt', textIndent: '0pt', textAlign: 'left' }}>Gen-EWS</p>
                     </td>
                     <td style={{ width: '104pt', border: '1pt solid #CCCCCC' }}>
                         <p className="s2" style={{ paddingTop: '2pt', paddingLeft: '2pt', textIndent: '0pt', textAlign: 'left' }}>23532</p>
